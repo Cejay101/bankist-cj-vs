@@ -21,7 +21,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 40.5%;
   box-sizing: border-box;
 }
 
@@ -711,7 +711,7 @@ h4 {
 @media (max-width: 420px) {
 
 .nav ul{
-  display: none;
+  /* display: none; */
 }
   .nav__item {
     margin-left: 2rem;
