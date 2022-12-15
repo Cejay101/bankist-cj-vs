@@ -624,6 +624,7 @@ h4 {
   grid-template-columns: 1fr 2fr;
   align-items: center;
   gap: 2.5rem;
+  text-transform: uppercase;
 }
 
 .modal__form label {
