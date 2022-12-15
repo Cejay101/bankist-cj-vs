@@ -674,6 +674,40 @@ h4 {
   font-weight: 400;
 }
 
+@media (max-width: 800px) {
+  /* NAVIGATION */
+.nav {
+  flex-direction: column;
+  height: 10rem;
+}
+.modal {
+  max-width: 50rem;
+}
+.header__title{
+  /* margin-top: 2rem; */
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  font-size: 5.2rem;
+  line-height: 1.35;
+}
+h4 {
+  font-size: 2.3rem;
+  font-weight: 500;
+}
+.btn--scroll-to{
+  margin-bottom: 5rem;
+}
+#section--1{
+  padding: 3rem;
+}
+.features{
+  display: flex;
+  flex-direction: column;
+}
+
+}
 @media (max-width: 420px) {
 
 .nav ul{
