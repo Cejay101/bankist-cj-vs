@@ -34,6 +34,9 @@ h4 {
 body{
   width: 100%;
 }
+.nav ul{
+  display: none;
+}
   .nav__item {
     margin-left: 2rem;
   }
